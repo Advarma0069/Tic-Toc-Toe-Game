@@ -2,6 +2,6 @@
 
 
 YOU CAN CHECK IT LIVE DEMO 
-PLEASE CLICK HERE
+Please click here now
 
-https://github.com/Advarma0069/Tic-Toc-Toe-Game
+https://advarma0069.github.io/Tic-Toc-Toe-Game/
